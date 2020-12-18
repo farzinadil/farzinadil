@@ -1,6 +1,6 @@
 <img alt="Hi there 👋" src="img/banner.svg" width="100%"/>
 <br />
-##📖About Me
+## 📖 About Me
 
 
 - 🔭 I’m currently working on ...
