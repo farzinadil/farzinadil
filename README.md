@@ -1,4 +1,4 @@
-<img alt="Hi there 👋" src="img/banner.svg" />
+<img alt="Hi there 👋" src="img/banner.svg" width="100%"/>
 
 
 
