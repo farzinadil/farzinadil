@@ -13,4 +13,4 @@
 
 ## 📲 Connect with me
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/farzinadil/)] [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/m.a.n.u.m.a.n.o.j/)](https://instagram.com/farzinadil)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/m.a.n.u.m.a.n.o.j/)](https://instagram.com/farzinadil)
