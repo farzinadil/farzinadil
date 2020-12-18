@@ -18,4 +18,4 @@
 ## 💻 Tools and Technologies
 
 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="java" width="30%"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" alt="java" width="30%"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="java" width="10%"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" alt="html5" width="10%%"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" alt="css3" width="10%%"/> 
