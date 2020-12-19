@@ -8,8 +8,8 @@
 * 🔭 I’m currently working on ...
 * 🌱 I’m currently learning AWS
 * 💬 Ask me about anyting
-* 📫 How to reach me: ...
-* ⚡ Fun fact: ...
+* 📫 How to reach me: Use any of the links below
+<!-- * ⚡ Fun fact: ... -->
 
 ## 📲 Connect with me
 
