@@ -1,11 +1,11 @@
-<img alt="Hi there 👋" src="img/banner.svg" width="100%"/>
+<img alt="HI THERE, I'M FARZIN 👋" src="img/banner.svg" width="100%"/>
 <br />
 
 
 ## 📖 About Me
 
 * 🎓 I'm a Software Enginering student (class of 2022)
-* 🔭 I’m currently working on ...
+* 🔭 I’m currently working on [Car Price History Tool](https://github.com/farzinadil/car-price-history-tool)
 * 🌱 I’m currently learning AWS
 * 💬 Ask me about anyting
 * 📫 How to reach me: Use any of the links below
