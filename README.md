@@ -6,7 +6,7 @@
 
 * 🎓 I'm a Software Enginering student (class of 2022)
 * 🔭 I’m currently working on [Car Price History Tool](https://github.com/farzinadil/car-price-history-tool)
-* 🌱 I’m currently learning AWS
+* 🌱 I’m currently learning AWS and React
 * 💬 Ask me about anyting
 * 📫 How to reach me: Use any of the links below
 <!-- * ⚡ Fun fact: ... -->
@@ -18,4 +18,4 @@
 ## 💻 Tools and Technologies
 
 
-<img src="img/java-original.svg" alt="java" width="4%"/> <img src="img/html5-original.svg" alt="html5" width="4%%"/> <img src="img/css3-original.svg" alt="css3" width="4%%"/> <img src="img/javascript-original.svg" alt="javascript" width="4%%"/> <img src="img/typescript-original.svg" alt="typescript" width="4%%"/> <img src="img/nodejs-original.svg" alt="node.js" width="4%%"/> <img src="img/express-original.svg" alt="express" width="4%%"/> <img src="img/python-original.svg" alt="python" width="4%%"/> <img src="img/mongodb-original-wordmark.svg" alt="mongodb" width="4%%"/> <img src="img/mysql-original.svg" alt="mysql" width="4%%"/> <img src="img/jquery-original.svg" alt="jquery" width="4%%"/> <img src="img/electron-original.svg" alt="electron" width="4%%"/> 
+<img src="img/java-original.svg" alt="java" width="4%"/> <img src="img/html5-original.svg" alt="html5" width="4%%"/> <img src="img/css3-original.svg" alt="css3" width="4%%"/> <img src="img/javascript-original.svg" alt="javascript" width="4%%"/> <img src="img/typescript-original.svg" alt="typescript" width="4%%"/> <img src="img/nodejs-original.svg" alt="node.js" width="4%%"/> <img src="img/express-original.svg" alt="express" width="4%%"/> <img src="img/python-original.svg" alt="python" width="4%%"/> <img src="img/mongodb-original-wordmark.svg" alt="mongodb" width="4%%"/> <img src="img/mysql-original.svg" alt="mysql" width="4%%"/> <img src="img/jquery-original.svg" alt="jquery" width="4%%"/> <img src="img/electron-original.svg" alt="electron" width="4%%"/> <img src="img/amazonwebservices-original.svg" alt="Amazon Web Services" width="4%%"/> 
