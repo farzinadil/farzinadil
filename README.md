@@ -4,7 +4,7 @@
 
 ## 📖 About Me
 
-* 🎓 I'm a Software Enginering student (SJSU class of 2022)
+* 🎓 I'm a Software Enginering 
 * 🔭 I’m currently working on [Car Price History Tool](https://github.com/farzinadil/car-price-history-tool)
 * 🌱 I’m currently learning AWS and React
 * 💬 Ask me about anyting
